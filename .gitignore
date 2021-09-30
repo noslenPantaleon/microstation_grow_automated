@@ -1,0 +1,4 @@
+# ignore ALL .secrets files
+
+arduino_secrets.h
+
