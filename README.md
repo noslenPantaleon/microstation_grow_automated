@@ -57,7 +57,8 @@ Using this setting I was experimenting sometimes an out of sync of the hour and,
   
   this automations works with an daily routime getting the data form the capacitive Soil Moisture Sensor v1.2 on separeted trays with differents species, and analysing this data and doing a calibration to get the better values of humydity and them depending of the results the irrigations system will work or not, doing separetd irrigations over the trays.
   
+Here are some pictures, but I will be uploading more details with pictures and videos explaining all the process... 
 
-
+![microstation_pics](https://user-images.githubusercontent.com/69729849/136071224-7d432901-ae7e-489d-b6cc-71a78805aa7f.png)
 
 
